@@ -1,0 +1,61 @@
+_repo: Barnaby-Rudge--A-Tale-of-the-Riots-of-Eighty_917
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "Barnaby Rudge: A Tale of the Riots of Eighty (commonly known as Barnaby\
+  \ Rudge) is a historical novel by British novelist Charles Dickens. Barnaby Rudge\
+  \ was one of two novels (the other was The Old Curiosity Shop) that Dickens published\
+  \ in his short-lived (1840–1841) weekly serial Master Humphrey's Clock. Barnaby\
+  \ Rudge is largely set during the Gordon Riots of 1780.\nBarnaby Rudge was the fifth\
+  \ of Dickens' novels to be published. It had originally been planned to appear as\
+  \ his first, but changes of publisher led to many delays, and it first appeared\
+  \ in serial form in the Clock from February to November 1841.\nIt was Dickens' first\
+  \ historical novel. His only other is the much later A Tale of Two Cities, also\
+  \ set in revolutionary times. It is one of his less popular novels and has rarely\
+  \ been adapted for film or television. The last production was a 1960 BBC production;\
+  \ prior to that, silent films were made in 1911 and 1915.\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '917'
+  wikidata: Q2362527
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apprentices -- Fiction'
+- !lcsh 'Locksmiths -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Gordon Riots, 1780 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'London (England) -- History -- 18th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Political fiction'
+- GITenberg
+title: 'Barnaby Rudge: A Tale of the Riots of ''Eighty'
+url: http://www.gutenberg.org/ebooks/917
+wikipedia:
+- https://fr.wikipedia.org/wiki/Barnaby_Rudge
+- https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D9%86%D8%A7%D8%A8%D9%8A_%D8%B1%D8%AF%D8%AC
+- https://nl.wikipedia.org/wiki/Barnaby_Rudge
+- https://pt.wikipedia.org/wiki/Barnaby_Rudge
+- https://pl.wikipedia.org/wiki/Barnaba_Rudge
+- https://en.wikiquote.org/wiki/Barnaby_Rudge
+- https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D9%86%D8%A7%D8%A8%DB%8C_%D8%B1%D9%88%D8%AC
+- https://es.wikipedia.org/wiki/Barnaby_Rudge
+- https://en.wikisource.org/wiki/Barnaby_Rudge
+- https://en.wikipedia.org/wiki/Barnaby_Rudge
+- https://kw.wikipedia.org/wiki/Barnaby_Rudge
+- https://it.wikipedia.org/wiki/Barnaby_Rudge
+- https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%BA%B3%E6%AF%94%C2%B7%E6%8B%89%E5%A5%87
+- https://sv.wikipedia.org/wiki/Barnaby_Rudge
