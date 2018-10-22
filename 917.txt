@@ -11,7 +11,7 @@ Title: Barnaby Rudge
 Author: Charles Dickens
 
 Release Date: April 27, 2006 [EBook #917]
-Last updated: December 15, 2012
+Last updated: October 7, 2015
 
 Language: English
 
@@ -179,7 +179,7 @@ Chapter 1
 
 In the year 1775, there stood upon the borders of Epping Forest, at a
 distance of about twelve miles from London--measuring from the Standard
-in Cornhill,' or rather from the spot on or near to which the Standard
+in Cornhill, or rather from the spot on or near to which the Standard
 used to be in days of yore--a house of public entertainment called the
 Maypole; which fact was demonstrated to all such travellers as
 could neither read nor write (and at that time a vast number both of
@@ -1440,7 +1440,7 @@ better see if she can tell me who he is. Barnaby, my man, help me to put
 him in the chaise, and we'll ride home together.'
 
 'I can't touch him!' cried the idiot falling back, and shuddering as
-with a strong spasm; he's bloody!'
+with a strong spasm; 'he's bloody!'
 
 'It's in his nature, I know,' muttered the locksmith, 'it's cruel to ask
 him, but I must have help. Barnaby--good Barnaby--dear Barnaby--if you
@@ -1471,7 +1471,7 @@ Chapter 4
 
 In the venerable suburb--it was a suburb once--of Clerkenwell, towards
 that part of its confines which is nearest to the Charter House, and in
-one of those cool, shady Streets, of which a few, widely scattered
+one of those cool, shady streets, of which a few, widely scattered
 and dispersed, yet remain in such old parts of the metropolis,--each
 tenement quietly vegetating like an ancient citizen who long ago retired
 from business, and dozing on in its infirmity until in course of time it
@@ -2117,7 +2117,7 @@ falling on the ground.
 'who has ever had a warm regard for you, and maybe has tried to prove it
 when he could. Who is this ill-favoured man, and what has he to do with
 you? Who is this ghost, that is only seen in the black nights and bad
-weather? How does he know, and why does he haunt, this house, whispering
+weather? How does he know, and why does he haunt this house, whispering
 through chinks and crevices, as if there was that between him and you,
 which neither durst so much as speak aloud of? Who is he?'
 
@@ -3787,7 +3787,7 @@ smallest discomposure--or at least without the show of any.
 in his face.'
 
 'This for your pains,' said the other, putting money in his hand, and
-glancing at him steadfastly.' This for your pains, sharp Barnaby.'
+glancing at him steadfastly.'This for your pains, sharp Barnaby.'
 
 'For Grip, and me, and Hugh, to share among us,' he rejoined, putting
 it up, and nodding, as he counted it on his fingers. 'Grip one, me two,
@@ -4103,7 +4103,7 @@ composedly, 'and I thank you. I will be frank with you--'
 
 'Frank--open--perfectly candid.'
 
-'Hab!' cried Mr Haredale, drawing his breath. 'But don't let me
+'Hah!' cried Mr Haredale, drawing his breath. 'But don't let me
 interrupt you.'
 
 'So resolved am I to hold this course,' returned the other, tasting his
@@ -4292,7 +4292,7 @@ again.'
 'Are you going?' said Mr Chester, rising with a graceful indolence. 'Let
 me light you down the stairs.'
 
-'Pray keep your seat,' returned the other drily, 'I know the way. So,
+'Pray keep your seat,' returned the other drily, 'I know the way.' So,
 waving his hand slightly, and putting on his hat as he turned upon his
 heel, he went clanking out as he had come, shut the door behind him, and
 tramped down the echoing stairs.
@@ -5682,7 +5682,7 @@ have warmth and food, and I will have them here.'
 'And nearly a murderer then.'
 
 'The will was not wanting. There was one came upon me and raised the
-hue-and-cry', that it would have gone hard with, but for his nimbleness.
+hue-and-cry, that it would have gone hard with, but for his nimbleness.
 I made a thrust at him.'
 
 'You thrust your sword at HIM!' cried the widow, looking upwards. 'You
@@ -6468,7 +6468,7 @@ agony that if anybody had told her so, she wouldn't have believed it.
 'But, Martha,' said Gabriel, putting himself in the way as she was
 moving off with the aid of Dolly's shoulder, 'wouldn't have believed
 what? Tell me what's wrong now. Do tell me. Upon my soul I don't know.
-Do you know, child? Damme!' cried the locksmith, plucking at his wig in
+Do YOU know, child? Damme!' cried the locksmith, plucking at his wig in
 a kind of frenzy, 'nobody does know, I verily believe, but Miggs!'
 
 'Miggs,' said Mrs Varden faintly, and with symptoms of approaching
@@ -6548,7 +6548,7 @@ unwell to venture out that day.
 'Oh no, you're not, mim, indeed you're not,' said Miggs; 'I repeal to
 master; master knows you're not, mim. The hair, and motion of the shay,
 will do you good, mim, and you must not give way, you must not raly. She
-must keep up, mustn't she, sir, for all out sakes? I was a telling
+must keep up, mustn't she, sir, for all our sakes? I was a telling
 her that, just now. She must remember us, even if she forgets herself.
 Master will persuade you, mim, I'm sure. There's Miss Dolly's a-going
 you know, and master, and you, and all so happy and so comfortable. Oh!'
@@ -6839,13 +6839,13 @@ frightened me by coming so suddenly upon me, sir--I would rather go,
 sir, if you'll be so good as to let me.'
 
 'Immediately,' said Mr Haredale, who had by this time led her into the
-room and closed the door. You shall go directly. You have just left
+room and closed the door. 'You shall go directly. You have just left
 Emma?'
 
 'Yes, sir, just this minute.--Father's waiting for me, sir, if you'll
 please to have the goodness--'
 
-I know. I know,' said Mr Haredale. 'Answer me a question. What did you
+'I know. I know,' said Mr Haredale. 'Answer me a question. What did you
 bring here to-day?'
 
 'Bring here, sir?' faltered Dolly.
@@ -7353,7 +7353,7 @@ up, and checked his horse beside them.
 'Hugh!' said Joe. 'What errand are you upon?'
 
 'I come to ride back with you,' he answered, glancing covertly at the
-locksmith's daughter. 'HE sent me.
+locksmith's daughter. 'HE sent me.'
 
 'My father!' said poor Joe; adding under his breath, with a very
 unfilial apostrophe, 'Will he never think me man enough to take care of
@@ -7806,7 +7806,7 @@ down his hairy throat, 'and I'll do murder if you ask me!'
 
 'As I don't mean to ask you, and you might possibly do it without
 being invited if you went on much further,' said Mr Chester with great
-composure, we will stop, if agreeable to you, my good friend, at the
+composure, 'we will stop, if agreeable to you, my good friend, at the
 next glass. You were drinking before you came here.'
 
 'I always am when I can get it,' cried Hugh boisterously, waving the
@@ -7974,7 +7974,7 @@ Hugh made no rejoinder, but whistling to his dog, who sprung up at the
 sound and came jumping and sporting about him, bade his sympathising
 friend good night.
 
-'Good night; he returned. 'Remember; you're safe with me--quite safe. So
+'Good night,' he returned. 'Remember; you're safe with me--quite safe. So
 long as you deserve it, my good fellow, as I hope you always will, you
 have a friend in me, on whose silence you may rely. Now do be careful of
 yourself, pray do, and consider what jeopardy you might have stood in.
@@ -8528,7 +8528,7 @@ Haredale, too--to trust me if you can, and think of me kindly as you
 have been used to do. If I die and cannot tell my secret even then (for
 that may come to pass), it will sit the lighter on my breast in that
 hour for this day's work; and on that day, and every day until it comes,
-I will pray for and thank you both, and trouble you no more.
+I will pray for and thank you both, and trouble you no more.'
 
 With that, she would have left them, but they detained her, and with
 many soothing words and kind entreaties, besought her to consider what
@@ -9110,7 +9110,7 @@ You have abetted him in it, and very kind of you it was to do so. I am
 deeply obliged to you--most deeply obliged to you--for your interest in
 his behalf; but my dear ma'am, it is a mistaken one, I do assure you.'
 
-Mrs Varden stammered that she was sorry--'
+Mrs Varden stammered that she was sorry--
 
 'Sorry, my dear ma'am,' he interposed. 'Never be sorry for what is so
 very amiable, so very good in intention, so perfectly like yourself. But
@@ -9495,7 +9495,7 @@ in his easy-chair, with his gaze intently fixed upon the fire.
 'Well!' he said, after meditating for a long time--and said with a deep
 sigh and an uneasy shifting of his attitude, as though he dismissed some
 other subject from his thoughts, and returned to that which had held
-possession of them all the day--the plot thickens; I have thrown the
+possession of them all the day--'the plot thickens; I have thrown the
 shell; it will explode, I think, in eight-and-forty hours, and should
 scatter these good folks amazingly. We shall see!'
 
@@ -10342,7 +10342,7 @@ time. Look in my face. You see me, do you?'
 
 'I do,' replied the serjeant with an oath, 'and a finer young fellow or
 one better qualified to serve his king and country, I never set my--' he
-used an adjective in this place--'eyes on.
+used an adjective in this place--'eyes on.'
 
 'Thank you,' said Joe, 'I didn't ask you for want of a compliment, but
 thank you all the same. Do I look like a sneaking fellow or a liar?'
@@ -11406,7 +11406,7 @@ grasped his stick and lantern, and prepared to descend the stairs.
 
 'Stay,' said Mr Haredale. 'Will this man drink?'
 
-'Drink! He'd drink the Thames up, if it was strong enough, sir, replied
+'Drink! He'd drink the Thames up, if it was strong enough, sir,' replied
 John Willet. 'He'll have something when he gets home. He's better
 without it, now, sir.'
 
@@ -11828,7 +11828,7 @@ mass of people out of doors, or are regarded by them, we will uphold
 them to the last; and will raise a cry against these un-English Papists
 which shall re-echo through the country, and roll with a noise like
 thunder. I will be worthy of the motto on my coat of arms, "Called and
-chosen and faithful."
+chosen and faithful."'
 
 'Called,' said the secretary, 'by Heaven.'
 
@@ -12756,7 +12756,7 @@ there they let them lie, and passed on.
 When they had paraded the street and all the avenues of the building in
 this manner for near two hours, they turned away, and his friend asked
 him what he thought of what he had seen, and whether he was prepared
-for a good hot piece of work if it should come to that. The hotter the
+for a good hot piece of work if it should come to that. 'The hotter the
 better,' said Hugh, 'I'm prepared for anything.'--'So am I,' said his
 friend, 'and so are many of us; and they shook hands upon it with a
 great oath, and with many terrible imprecations on the Papists.
@@ -13024,7 +13024,7 @@ Tappertit following his example, left him no excuse to stay. So they all
 three left the house together: roaring a No-Popery song until the fields
 resounded with the dismal noise.
 
-Cheer up, captain!' cried Hugh, when they had roared themselves out of
+'Cheer up, captain!' cried Hugh, when they had roared themselves out of
 breath. 'Another stave!'
 
 Mr Tappertit, nothing loath, began again; and so the three went
@@ -14284,7 +14284,7 @@ most remarkable meeting!' and took a pinch of snuff with his usual
 self-possession.
 
 'Mr Haredale,' said Gashford, stealthily raising his eyes, and
-letting them drop again when they met the other's steady gaze, is too
+letting them drop again when they met the other's steady gaze, 'is too
 conscientious, too honourable, too manly, I am sure, to attach unworthy
 motives to an honest change of opinions, even though it implies a doubt
 of those he holds himself. Mr Haredale is too just, too generous, too
@@ -14378,7 +14378,7 @@ advisable to present their own Great Protestant petition. All this he
 told the persons about him in a loud voice, and with great abundance
 of ungainly gesture. Those who were nearest him made comments to each
 other, and vented threats and murmurings; those who were outside the
-crowd cried, 'Silence,' and Stand back,' or closed in upon the rest,
+crowd cried, 'Silence,' and 'Stand back,' or closed in upon the rest,
 endeavouring to make a forcible exchange of places: and so they came
 driving on in a very disorderly and irregular way, as it is the manner
 of a crowd to do.
@@ -14623,7 +14623,7 @@ assured him they were making merry; and then approaching the door, by
 means of a tottering plank which crossed the ditch in front, knocked at
 it with his hand.
 
-'Muster Gashfordl' said the man who opened it, taking his pipe from
+'Muster Gashford!' said the man who opened it, taking his pipe from
 his mouth, in evident surprise. 'Why, who'd have thought of this here
 honour! Walk in, Muster Gashford--walk in, sir.'
 
@@ -14902,7 +14902,7 @@ us be contented, and we do not want and need not care to have it, though
 it lay shining at our feet.'
 
 'Ay!' said Barnaby, resting with crossed arms on his spade, and looking
-wistfully at the sunset, that's well enough, mother; but gold's a good
+wistfully at the sunset, 'that's well enough, mother; but gold's a good
 thing to have. I wish that I knew where to find it. Grip and I could do
 much with gold, be sure of that.'
 
@@ -14974,7 +14974,7 @@ nothing.'
 Barnaby looked curiously at his eyes, and touching them with his
 fingers, as an inquisitive child might, led him towards the house.
 
-'You have come a long distance, 'said the widow, meeting him at the
+'You have come a long distance,' said the widow, meeting him at the
 door. 'How have you found your way so far?'
 
 'Use and necessity are good teachers, as I have heard--the best of any,'
@@ -15503,7 +15503,7 @@ red-faced,--and besought him not to be angry, for they meant no harm,
 and would go upon their way that moment.
 
 'Don't be too sure of that,' replied the gentleman, 'we don't allow
-vagrants to roam about this place. I know what thou want'st---stray
+vagrants to roam about this place. I know what thou want'st--stray
 linen drying on hedges, and stray poultry, eh? What hast got in that
 basket, lazy hound?'
 
@@ -16335,7 +16335,7 @@ the passages without, and on the other staircases, who could neither
 see nor hear, but to whom, notwithstanding, the signal was conveyed with
 marvellous rapidity.
 
-'Gentlemen,' said Lord George, who was very pale and agitated, we must
+'Gentlemen,' said Lord George, who was very pale and agitated, 'we must
 be firm. They talk of delays, but we must have no delays. They talk of
 taking your petition into consideration next Tuesday, but we must have
 it considered now. Present appearances look bad for our success, but we
@@ -17845,7 +17845,7 @@ by his own Parliament?'
 'Yes, Johnny, but that's your sense--not your senses,' said the
 adventurous Mr Parkes.
 
-'How do you know? 'retorted John with great dignity. 'You're a
+'How do you know?' retorted John with great dignity. 'You're a
 contradicting pretty free, you are, sir. How do YOU know which it is?
 I'm not aware I ever told you, sir.'
 
@@ -18740,7 +18740,7 @@ red with my brother's blood, and that of his faithful servant, shed
 to conceal your own atrocious guilt--You, Rudge, double murderer and
 monster, I arrest you in the name of God, who has delivered you into my
 hands. No. Though you had the strength of twenty men,' he added, as the
-murderer writhed and struggled, you could not escape me or loosen my
+murderer writhed and struggled, 'you could not escape me or loosen my
 grasp to-night!'
 
 
@@ -20424,7 +20424,7 @@ who plainly showed me by his fearful looks that he suspected what I
 had done? Do I remember that I spoke fairly to him--that I drew
 nearer--nearer yet--with the hot knife in my sleeve? Do I fancy how HE
 died? Did he stagger back into the angle of the wall into which I had
-hemmed him, and, bleeding inwardly, stand, not fail, a corpse before
+hemmed him, and, bleeding inwardly, stand, not fall, a corpse before
 me? Did I see him, for an instant, as I see you now, erect and on his
 feet--but dead!'
 
@@ -20761,7 +20761,7 @@ London, but some who were comparatively innocent. There was more than
 one woman there, disguised in man's attire, and bent upon the rescue
 of a child or brother. There were the two sons of a man who lay under
 sentence of death, and who was to be executed along with three
-others, on the next day but one. There was a great parry of boys whose
+others, on the next day but one. There was a great party of boys whose
 fellow-pickpockets were in the prison; and at the skirts of all, a score
 of miserable women, outcasts from the world, seeking to release some
 other fallen creature as miserable as themselves, or moved by a general
@@ -21546,7 +21546,7 @@ quiet manner, while the prison was burning, and such a tumult was
 cleaving the air, though he had been outside the walls. But here, in the
 very heart of the building, and moreover with the prayers and cries
 of the four men under sentence sounding in his ears, and their hands,
-stretched our through the gratings in their cell-doors, clasped in
+stretched out through the gratings in their cell-doors, clasped in
 frantic entreaty before his very eyes, it was particularly remarkable.
 Indeed, Mr Dennis appeared to think it an uncommon circumstance, and to
 banter himself upon it; for he thrust his hat on one side as some men do
@@ -21719,7 +21719,7 @@ him--the way was only wide enough for one abreast--to stand back, and
 wielded a sledge-hammer with such strength, that after a few blows the
 iron bent and broke, and gave them free admittance.
 
-It the two sons of one of these men, of whom mention has been made,
+If the two sons of one of these men, of whom mention has been made,
 were furious in their zeal before, they had now the wrath and vigour of
 lions. Calling to the man within each cell, to keep as far back as he
 could, lest the axes crashing through the door should wound him, a party
@@ -22516,7 +22516,7 @@ peopled by a legion of devils. This flight and pursuit, this cruel
 burning and destroying, these dreadful cries and stunning noises, were
 THEY the good lord's noble cause!
 
-Though almost stupefied by the bewildering scene, still be found the
+Though almost stupefied by the bewildering scene, still he found the
 blind man's house. It was shut up and tenantless.
 
 He waited for a long while, but no one came. At last he withdrew; and as
@@ -22944,7 +22944,7 @@ mistrust his feller-creeturs, I don't know what is. Desert the banners!
 Me! Ned Dennis, as was so christened by his own father!--Is this axe
 your'n, brother?'
 
-Yes, it's mine,' said Hugh, in the same sullen manner as before; 'it
+'Yes, it's mine,' said Hugh, in the same sullen manner as before; 'it
 might have hurt you, if you had come in its way once or twice last
 night. Put it down.'
 
@@ -23644,7 +23644,7 @@ me justice. If you decide to remain (as I think you do), remember, Miss
 Haredale, that I left you with a solemn caution, and acquitting myself
 of all the consequences to which you expose yourself.'
 
-'Stay, sir!' cried Emma--one moment, I beg you. Cannot we--and she drew
+'Stay, sir!' cried Emma--'one moment, I beg you. Cannot we'--and she drew
 Dolly closer to her--'cannot we go together?'
 
 'The task of conveying one female in safety through such scenes as we
@@ -24176,7 +24176,7 @@ sorrow, and that her tears fell faster at the freshened recollection of
 their lost tranquillity.
 
 'Mother,' said Barnaby, as they heard the man approaching to close the
-cells for the night,' when I spoke to you just now about my father you
+cells for the night, 'when I spoke to you just now about my father you
 cried "Hush!" and turned away your head. Why did you do so? Tell me why,
 in a word. You thought HE was dead. You are not sorry that he is alive
 and has come back to us. Where is he? Here?'
@@ -24395,7 +24395,7 @@ on by so many for their own purposes, was desolate and alone.
 Chapter 74
 
 
-Me Dennis, having been made prisoner late in the evening, was removed to
+Mr Dennis, having been made prisoner late in the evening, was removed to
 a neighbouring round-house for that night, and carried before a justice
 for examination on the next day, Saturday. The charges against him
 being numerous and weighty, and it being in particular proved, by the
@@ -25143,7 +25143,7 @@ mercy on them!--Alas! I say I can do no more for them, but whom can I
 help? Mary Rudge will have a home, and a firm friend when she most wants
 one; but Barnaby--poor Barnaby--willing Barnaby--what aid can I render
 him? There are many, many men of sense, God forgive me,' cried the
-honest locksmith, stopping in a narrow count to pass his hand across his
+honest locksmith, stopping in a narrow court to pass his hand across his
 eyes, 'I could better afford to lose than Barnaby. We have always been
 good friends, but I never knew, till now, how much I loved the lad.'
 
@@ -25286,7 +25286,7 @@ end for a man like me. Don't you think there's a chance? I don't mean
 for you, I mean for me. Don't let HIM hear us (meaning Hugh); 'he's so
 desperate.'
 
-Now then,' said the officer, who had been lounging in and out with his
+'Now then,' said the officer, who had been lounging in and out with his
 hands in his pockets, and yawning as if he were in the last extremity
 for some subject of interest: 'it's time to turn in, boys.'
 
@@ -25706,7 +25706,7 @@ the direction where he stood) and answered, 'There is nothing more.'
 has a fancy for a dog; and not then, unless he means to use him well.
 There's one, belongs to me, at the house I came from, and it wouldn't
 be easy to find a better. He'll whine at first, but he'll soon get over
-that.--You wonder that I think about a dog just now, he added, with a
+that.--You wonder that I think about a dog just now,' he added, with a
 kind of laugh. 'If any man deserved it of me half as well, I'd think of
 HIM.'
 
@@ -25857,7 +25857,7 @@ us to do old friends some service, but has opened a path in life for me
 which I may tread without being a burden upon you. To be plain, father,
 he can employ me; I have satisfied myself that I can be of real use to
 him; and I am going to carry my one arm away with him, and to make the
-most of it.
+most of it.'
 
 In the mind's eye of Mr Willet, the West Indies, and indeed all foreign
 countries, were inhabited by savage nations, who were perpetually
@@ -26010,7 +26010,7 @@ Golden Key this chapter goes.
 The Golden Key itself, fair emblem of the locksmith's trade, had been
 pulled down by the rioters, and roughly trampled under foot. But, now,
 it was hoisted up again in all the glory of a new coat of paint,
-and shewed more bravely even than in days of yore. Indeed the whole
+and showed more bravely even than in days of yore. Indeed the whole
 house-front was spruce and trim, and so freshened up throughout, that if
 there yet remained at large any of the rioters who had been concerned in
 the attack upon it, the sight of the old, goodly, prosperous dwelling,
